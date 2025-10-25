@@ -1,23 +1,23 @@
-# 🛒 Fraud Detection in E-Commerce Transactions
+# Fraud Detection in E-Commerce Transactions
 
 > **Goal:** Identify key risk factors and recommend strategies to prevent fraudulent transactions in an e-commerce platform.
 
 ---
 
-## 📈 Executive Summary
+## Executive Summary
 - **5.17%** of transactions were confirmed fraudulent — small in percentage but **financially significant**.  
 - **High-value transactions (> $3K)** and **new accounts (<30 days)** were the strongest risk indicators.  
 - **Clothing + Bank Transfer** combination showed the **highest fraud rate**.  
 - Fraud peaks on **Mondays, Fridays**, and during **late-night hours**.
 
-💡 **Business Impact:**
+ **Business Impact:**
 - Minimized chargeback losses  
 - Improved customer trust and transaction security  
 - Strengthened data-driven fraud prevention strategy
 
 ---
 
-## 🧩 Project Overview
+## Project Overview
 
 | Category | Details |
 |-----------|----------|
@@ -28,30 +28,30 @@
 
 ---
 
-## 🔍 Analysis Highlights
+## Analysis Highlights
 
-### 🔹 High-Risk Profiles
+### - High-Risk Profiles
 - **New accounts (<30 days)** have higher fraud rates.
 - **Large transactions (> $3K)** are highly suspicious.  
-📊 *Action:* Set stricter transaction limits for new accounts.
+ *Action:* Set stricter transaction limits for new accounts.
 
-### 🔹 Product & Payment Risks
+### - Product & Payment Risks
 - Highest fraud in **Clothing** and **Home & Garden**.  
 - **Bank Transfer** and **PayPal** are most vulnerable payment types.  
-📊 *Action:* Apply two-step authentication for these methods.
+ *Action:* Apply two-step authentication for these methods.
 
-### 🔹 Temporal Patterns
+### - Temporal Patterns
 - Fraud spikes during **late-night** and **afternoon** hours, mainly on **Mondays & Fridays**.  
-📊 *Action:* Strengthen real-time monitoring during these periods.
+ *Action:* Strengthen real-time monitoring during these periods.
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
-- 🧠 Develop a **predictive fraud model** (Random Forest/XGBoost) using risk features.  
-- 💳 Enforce **transaction caps** and verification for new users.  
-- 🔐 Encourage **safer payment methods** like escrow services.  
-- ⏰ Implement **time-based risk scoring** in detection systems.
+-  Develop a **predictive fraud model** (Random Forest/XGBoost) using risk features.  
+-  Enforce **transaction caps** and verification for new users.  
+-  Encourage **safer payment methods** like escrow services.  
+-  Implement **time-based risk scoring** in detection systems.
 
 ---
 
@@ -65,17 +65,8 @@
 
 ---
 
-## 🧠 Key Takeaway
+## Key Takeaway
 > Fraud detection isn’t about catching criminals — it’s about **understanding behavior and reducing risk**.  
 > Through this project, I combined **data storytelling**, **risk analysis**, and **business insight** to create a practical fraud prevention strategy.
-
----
-
-## 👩‍💻 Author
-**Suciningtyas Nur Alifah**  
-🎓 Economics & Islamic Finance | Data Analytics Enthusiast  
-📍 Jakarta, Indonesia  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin) • [GitHub](https://github.com/sna-ds)
-
 
 
