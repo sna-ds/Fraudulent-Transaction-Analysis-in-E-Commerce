@@ -68,6 +68,6 @@ This project aims to identify key risk factors and recommend strategies to preve
 ## 📊 Dashboard Preview
 ![Dashboard](Dashboard/Fraud Transaction Analysis.png)
 
-📎 [Download Interactive Dashboard (Power BI)](Dashboard/Fraud Transaction Analysis.pbix)
+📎 [Download Interactive Dashboard (Power BI)]([Dashboard/Fraud Transaction Analysis.pbix](https://github.com/sna-ds/Fraudulent-Transaction-Analysis-in-E-Commerce/raw/refs/heads/main/Dashboard/Fraud%20Transaction%20Analysis.pbix))
 
 
